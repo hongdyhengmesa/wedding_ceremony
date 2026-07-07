@@ -37,7 +37,7 @@ body {
 /* ===== HERO SECTION ===== */
 .hero-section {
     background: linear-gradient(rgba(255,255,255,0.75), rgba(255,255,255,0.88)), 
-                url('https://images.unsplash.com/photo-1448375240586-882707db888b?auto=format&fit=crop&w=1000&q=80');
+                url('/images/img3.jpg');
     background-size: cover;
     background-position: center;
     text-align: center;
